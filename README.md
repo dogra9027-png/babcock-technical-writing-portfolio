@@ -34,7 +34,7 @@
 ### Technical Diagrams
 
 * [MMSS System Architecture — draw.io](diagrams/MMSS-System-Architecture.drawio)
-* [MMSS Document Review & Approval Workflow — draw.io](images/MMSS-Document-Review-Workflow.png)
+* [View MMSS Document Review Workflow](images/MMSS-Document-Review-Workflow.png)
 
 ### Diagram Images
 
