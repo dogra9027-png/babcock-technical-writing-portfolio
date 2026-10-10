@@ -17,7 +17,7 @@
 * ### Final Proposal
 
 - [View MMSS Technical Proposal — PDF](documents/MMSS-Technical-Proposal-v0.1.pdf)
-- [Download MMSS Technical Proposal — DOCX](documents/MMSS-Technical-Proposal-v0.1.docx)
+- [Download MMSS Technical Proposal — DOCX](documents/MMSS-Technical-Proposal-v0.1.docm)
 
 ### Proposal Source Documents
 
@@ -34,7 +34,7 @@
 ### Technical Diagrams
 
 * [MMSS System Architecture — draw.io](diagrams/MMSS-System-Architecture.drawio)
-* [MMSS Document Review & Approval Workflow — draw.io](diagrams/MMSS-Document-Review-Workflow.drawio)
+* [MMSS Document Review & Approval Workflow — draw.io](images/MMSS-Document-Review-Workflow.png)
 
 ### Diagram Images
 
